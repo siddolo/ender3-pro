@@ -8,8 +8,10 @@ My Ender 3 PRO
 - [Filament arm](printable-upgrade/filament-arm/README.md)
 - [Cable clips](printable-upgrade/cable-clips/README.md)
 - [Quicktool change](printable-upgrade/quicktool-change/README.md)
+- [Pi camera mount](printable-upgrade/pi-camera-mount/README.md)
 
 ## Hardware upgrade
 
 - [Laser adapter](https://github.com/siddolo/3Dprinter-laser)
+- OctoPrint (Raspberry PI 3 A+)
 
